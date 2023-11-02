@@ -4,7 +4,7 @@ first cheat (kinda) - simple internal cheat that only works with no VAC - OUTDAT
 
 SETUP (cheat is bad dont use):
 
-Clone the repo
-Make sure offsets are up-to-date
-Build in Release | x86
-Inject into CS:GO
+1. Clone the repo
+2. Make sure offsets are up to date
+3. Build in release x86
+4. Inject and Enjoy! :)
